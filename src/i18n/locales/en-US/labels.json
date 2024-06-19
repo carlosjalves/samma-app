@@ -1,0 +1,24 @@
+{
+  "select": {
+    "miss_distance": "Miss Distance",
+    "poc": "PoC",
+    "duration": "Duration",
+    "tca": "Time to TCA",
+    "fuel_consumption": "Fuel Consumption",
+    "delta_v": "Total Delta V"
+  },
+  "scatter": {
+    "miss_distance": "Miss Distance [m]",
+    "poc": "PoC",
+    "duration": "Duration [s]",
+    "tca": "Time to TCA [h]",
+    "fuel_consumption": "Fuel Consumption [g]",
+    "delta_v": "Total Delta V [cm/s]"
+  },
+  "type": {
+    "impulsive": "Impulsive",
+    "differential_drag": "Differential Drag",
+    "thrust": "Constant",
+    "unknown": "Unknown"
+  }
+}
