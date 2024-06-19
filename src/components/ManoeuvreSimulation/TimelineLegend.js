@@ -11,19 +11,6 @@ import glyph from '../../assets/icons/legendIcons/SimulationLegend/glyph.svg'
 
 export const TimelineLegend = ({ active }) => {
 
-  const [positionY, setPositionY] = useState(null);
-
-  useEffect(() => {
-    const legendDiv = document.querySelector('.legend-button');
-    let posY = null;
-
-    if (legendDiv) {
-      posY = legendDiv.getBoundingClientRect().bottom;
-    }
-
-    setPositionY(posY - 215);
-  }, []);
-
   return (
 
     <Box sx={(theme) => ({
@@ -33,7 +20,7 @@ export const TimelineLegend = ({ active }) => {
       backgroundColor: theme.palette.primary.main,
       borderRadius: "20px",
       position: 'absolute',
-      bottom: positionY,
+      bottom: 45,
       right: 0
     })}>
       <Typography sx={(theme) => ({

@@ -70,10 +70,10 @@ export default function Home() {
         <Box
           sx={{
             position: 'absolute',
-            top: "25%",
-            width: '30%',
-            height: '50%',
-            filter: 'blur(100px)',
+            top: "15%",
+            width: '40%',
+            height: '70%',
+            filter: 'blur(150px)',
             backgroundImage: 'linear-gradient(hsl(185, 91%, 65%), hsl(300, 100%, 54%))',
             opacity: "0.2",
             animation: 'rotate 50s cubic-bezier(0.8, 0.2, 0.2, 0.8) alternate infinite',
