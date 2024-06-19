@@ -1,14 +1,12 @@
-import { alpha, Slider, Box, FormControl, InputLabel, MenuItem, Select, SelectChangeEvent, Typography, IconButton, Tooltip, SvgIcon } from "@mui/material";
+import { Box, Typography } from "@mui/material";
 import { useEffect, useState } from 'react';
 import * as React from 'react';
-import InfoOutlinedIcon from '@mui/icons-material/InfoOutlined';
 
 import impulsiveIcon from '../../assets/icons/legendIcons/SimulationLegend/impulsive.svg'
 import differentialDragIcon from '../../assets/icons/legendIcons/SimulationLegend/differentialDrag.svg'
 import thrustIcon from '../../assets/icons/legendIcons/SimulationLegend/thrust.svg'
 
 import glyph from '../../assets/icons/legendIcons/SimulationLegend/glyph.svg'
-
 
 
 export const TimelineLegend = ({ active }) => {

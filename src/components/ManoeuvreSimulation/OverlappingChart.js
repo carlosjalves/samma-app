@@ -1,6 +1,5 @@
 import * as d3 from "d3";
-import { useEffect, useRef, useState } from "react";
-import { useTheme } from "@mui/material";
+import { useEffect, useRef } from "react";
 
 const OverlappingChart = ({
   fullData,
@@ -60,7 +59,7 @@ const OverlappingChart = ({
         .attr('height', 2)
         .attr('fill', !isSelected ? theme.palette.text.primary : theme.palette.primary.main);
     }
-  }, [theme, isSelected]);
+  }, [theme, isSelected, data, fullData, label]);
 
   return <svg width={38} height={40} className="overlapping-chart" ref={ref} style={{ backgroundColor: !isSelected ? theme.palette.primary.main : theme.palette.primary.active, opacity: !isHovered ? 1 : 0.9 }} />;
 };

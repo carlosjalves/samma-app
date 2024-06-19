@@ -1,4 +1,4 @@
-import { Box, FormControl, InputLabel, MenuItem, Select, Typography, useTheme } from "@mui/material";
+import { Box, FormControl, InputLabel, MenuItem, Select, Typography } from "@mui/material";
 
 export const CustomDropdownSelect = ({
   selectedValue,
@@ -6,7 +6,6 @@ export const CustomDropdownSelect = ({
   menuItems,
   label,
 }) => {
-  const theme = useTheme();
 
   return (
     <FormControl sx={{ marginTop: "-12px" }}>

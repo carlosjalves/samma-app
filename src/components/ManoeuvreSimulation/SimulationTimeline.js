@@ -10,8 +10,6 @@ import OverlappingTable from './OverlappingTable';
 import legendIcon from '../../assets/icons/legend.svg'
 import { TimelineLegend } from './TimelineLegend';
 
-const minDistance = 1;
-
 const SimulationTimeline = ({ data, selectedValues, handleSelectedChange }) => {
   const ref = useRef();
   const theme = useTheme();
@@ -140,18 +138,11 @@ const SimulationTimeline = ({ data, selectedValues, handleSelectedChange }) => {
 
         dragHandler(svg.selectAll(".marker-line, .marker-triangle"));
 
-        const xDomain = xScale.domain();
-        var filteredData = data.filter(function (d) {
-          var date = new Date(d.ignition_epoch_earliest);
-          return date >= xDomain[0];
-        });
-
         data.forEach((d, i) => {
           const x = xScale(new Date(d.ignition_epoch_earliest));
           //const fillColor = selectedValues.includes(d.id) ? theme.palette.type.impulsive : "#BDBDBD";
 
           if (d.type === 'impulsive') {
-            const dataId = `glyph-${i}`;
 
             svg.append('polygon')
               .attr('class', `type-glyph-impulsive-${d.id}`)
@@ -297,12 +288,6 @@ const SimulationTimeline = ({ data, selectedValues, handleSelectedChange }) => {
       });
 
     dragHandler(svg.selectAll(".marker-line, .marker-triangle"));
-
-    const xDomain = xScale.domain();
-    var filteredData = data.filter(function (d) {
-      var date = new Date(d.ignition_epoch_earliest);
-      return date >= xDomain[0];
-    });
 
     function toggleSelected(id) {
       const clickedItem = data.find(item => item.id === id);
@@ -484,12 +469,6 @@ const SimulationTimeline = ({ data, selectedValues, handleSelectedChange }) => {
     const xScale = d3.scaleTime()
       .domain([new Date(sliderValue[0]), new Date(sliderValue[1])])
       .range([100, widthInPixels - 100]);
-
-    const xDomain = xScale.domain();
-    var filteredData = data.filter(function (d) {
-      var date = new Date(d.ignition_epoch_earliest);
-      return date >= xDomain[0];
-    });
 
     const overlapped = {};
 

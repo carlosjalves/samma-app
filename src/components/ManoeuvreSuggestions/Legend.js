@@ -1,4 +1,4 @@
-import { alpha, Slider, Box, FormControl, InputLabel, MenuItem, Select, SelectChangeEvent, Typography, IconButton, Tooltip, SvgIcon } from "@mui/material";
+import { Box, Typography, Tooltip, SvgIcon } from "@mui/material";
 import { useEffect, useState } from 'react';
 import missDistanceLegend from '../../assets/icons/legendIcons/missDistance.svg'
 import pocLegend from '../../assets/icons/legendIcons/poc.svg'

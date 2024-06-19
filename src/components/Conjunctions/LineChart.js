@@ -9,19 +9,16 @@ const LineChart = ({
   const theme = useTheme();
 
   const [heightInPixels, setHeightInPixels] = useState(16);
-  const [widthInPixels, setWidthInPixels] = useState(450);
 
   useEffect(() => {
 
     // Clear previous SVG content
     d3.select(ref.current).selectAll("*").remove();
 
-    const currentWidth = parseInt(d3.select('#line-chart-table-cell').style('width'), 10);
     const currentHeight = parseInt(d3.select('#line-chart-table-cell').style('height'), 10);
 
-    if (currentWidth !== 0 && currentHeight !== 0) {
+    if (currentHeight !== 0) {
 
-      setWidthInPixels(currentWidth);
       setHeightInPixels(currentHeight);
       // set the dimensions and margins of the graph
 
@@ -53,19 +50,6 @@ const LineChart = ({
       svg.append("g")
         .call(d3.axisLeft(y))
         .selectAll(".domain").attr("opacity", 0);
-
-      // create a tooltip
-      let Tooltip = d3.select("body")
-        .append("div")
-        .style("opacity", 0)
-        .attr("class", "tooltip")
-        .style("background-color", "white")
-        .style("border", "solid")
-        .style("border-width", "1px")
-        .style("padding", "4px")
-        .style("position", "absolute")
-        .style("font-size", "13px")
-        .style("font-weight", 500)
 
       var gradient = svg.append("defs")
         .append("linearGradient")
@@ -142,8 +126,6 @@ const LineChart = ({
         .attr("cy", y(lastDataValue))
         .attr("r", 3)
         .attr("fill", theme.palette.primary.active)
-        //.attr("stroke", "#405CFF") // cor da borda do círculo
-        //.attr("stroke-width", 1.5) // largura da borda do círculo
         .on("mouseover", function (e, d) {
           d3.select(this)
             .attr("r", 3.5)
@@ -165,9 +147,7 @@ const LineChart = ({
             .attr("stroke-width", 1.5);
         })
     }
-
-
-  }, [theme]);
+  }, [theme, evolution]);
 
   return <svg width={85} height={heightInPixels - 16} id="line-chart" ref={ref} />;
 };

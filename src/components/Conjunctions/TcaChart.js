@@ -13,19 +13,16 @@ const TcaPlot = ({
   const theme = useTheme();
 
   const [heightInPixels, setHeightInPixels] = useState(16);
-  const [widthInPixels, setWidthInPixels] = useState(450);
 
   useEffect(() => {
 
     // Clear previous SVG content
     d3.select(ref.current).selectAll("*").remove();
 
-    const currentWidth = parseInt(d3.select('#tca-chart-table-cell').style('width'), 10);
     const currentHeight = parseInt(d3.select('#tca-chart-table-cell').style('height'), 10);
 
-    if (currentWidth !== 0 && currentHeight !== 0) {
+    if (currentHeight !== 0) {
 
-      setWidthInPixels(currentWidth);
       setHeightInPixels(currentHeight);
       // set the dimensions and margins of the graph
 
@@ -216,7 +213,7 @@ const TcaPlot = ({
             .style("visibility", "hidden");
         })
     }
-  }, [theme, isFirstRow]);
+  }, [theme, isFirstRow, status, tca, tcaLabel]);
 
   return <svg width={500} height={heightInPixels} id="tca-chart" ref={ref} />;
 };

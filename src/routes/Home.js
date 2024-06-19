@@ -1,4 +1,4 @@
-import { alpha, Slider, Box, Button, FormControl, InputLabel, MenuItem, Select, SelectChangeEvent, Typography, IconButton, Tooltip, SvgIcon, useTheme, colors } from "@mui/material";
+import { Box, Button, Typography } from "@mui/material";
 import { conjunctionsList } from "../assets/mappers";
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 import { Link } from 'react-router-dom';
@@ -6,7 +6,6 @@ import { Link } from 'react-router-dom';
 
 export default function Home() {
 
-  const theme = useTheme();
   const conjunction = conjunctionsList.items;
 
   const countSuggestedManoeuvres = conjunction.filter(item => item.suggested_manoeuvres > 0).length;

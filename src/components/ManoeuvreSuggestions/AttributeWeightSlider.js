@@ -1,5 +1,5 @@
-import { alpha, Slider, Box, FormControl, InputLabel, MenuItem, Select, SelectChangeEvent, Typography, IconButton, Tooltip, SvgIcon } from "@mui/material";
-import { useContext, useEffect, useState, useRef, useLayoutEffect } from "react";
+import { Slider, Box, Typography, Tooltip, SvgIcon } from "@mui/material";
+import { useEffect, useState, useRef, useLayoutEffect } from "react";
 import InfoOutlinedIcon from '@mui/icons-material/InfoOutlined';
 import * as React from 'react';
 

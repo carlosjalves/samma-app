@@ -1,17 +1,14 @@
 import { useParams } from 'react-router-dom';
-import { Box, Tooltip, useTheme, Link, Typography, Breadcrumbs, Alert } from '@mui/material';
+import { Box, Tooltip, Link, Typography, Breadcrumbs, Alert } from '@mui/material';
 import { useEffect, useState, useContext } from "react";
 import { conjunctionsList, manoeuvresList } from '../../assets/mappers';
 import manoeuvreSimulation from '../../assets/images/manoeuvreSimulation2.png';
 import SimulationTimeline from '../../components/ManoeuvreSimulation/SimulationTimeline';
 import { SelectedValuesContext } from '../../components/SelectedValuesContext';
 
-import OverlappingChart from '../../components/ManoeuvreSimulation/OverlappingChart';
-import OverlappingTable from '../../components/ManoeuvreSimulation/OverlappingTable';
 
 export default function ManoeuvreSequence() {
   const { conjunctionId } = useParams();
-  const theme = useTheme();
 
   const { selectedValues, setSelectedValues } = useContext(SelectedValuesContext);
   const [full, setFull] = useState(false);
