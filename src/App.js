@@ -15,7 +15,7 @@ import { SelectedValuesProvider } from "./components/SelectedValuesContext";
 
 export default function App() {
   const location = useLocation();
-  console.log(location)
+
   return (
     <>
       <SelectedValuesProvider>
