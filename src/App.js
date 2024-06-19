@@ -15,14 +15,14 @@ import { SelectedValuesProvider } from "./components/SelectedValuesContext";
 
 export default function App() {
   const location = useLocation();
-
+  console.log(location)
   return (
     <>
       <SelectedValuesProvider>
         <ThemeSetup>
           {location.pathname !== '/sat-manoeuvres-app/' && <Navbar />}
           <Routes>
-            <Route path='/sat-manoeuvres-app/' element={<Home />} />
+            <Route path='/sat-manoeuvres-app' element={<Home />} />
             <Route path='/sat-manoeuvres-app/conjunctions' element={<Conjunctions />} />
             <Route path='/sat-manoeuvres-app/conjunctions/:conjunctionId/manoeuvres' element={<ManoeuvreSuggestions />} />
             <Route path='/sat-manoeuvres-app/conjunctions/:conjunctionId/simulation' element={<ManoeuvreSequence />} />
