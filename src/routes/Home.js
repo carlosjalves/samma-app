@@ -50,7 +50,7 @@ export default function Home() {
         </Box>
         <Button
           component={Link}
-          to="/conjunctions"
+          to="/sat-manoeuvres-app/conjunctions"
           variant="contained"
           endIcon={<ArrowForwardIosIcon />}
           sx={(theme) => ({

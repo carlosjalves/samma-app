@@ -17,7 +17,7 @@ export default function Navbar() {
   const location = useLocation();
   const pathname = location.pathname;
 
-  const id = pathname.split("/")[2];
+  const id = pathname.split("/")[3];
 
   //console.log(id)
   /* const pathname = location.pathname;
@@ -50,12 +50,12 @@ export default function Navbar() {
       </Link>
 
       <ul style={{ display: "flex", alignItems: "center", gap: "1rem", padding: "0", margin: "0", listStyle: "none" }}>
-        {(location.pathname === "/" || location.pathname === "/conjunctions") ? (
-          <CustomLink to="/conjunctions"><h4 style={{ color: theme.palette.text.primary }}>Conjunctions</h4></CustomLink>
+        {(location.pathname === "/sat-manoeuvres-app/" || location.pathname === "/sat-manoeuvres-app/conjunctions") ? (
+          <CustomLink to="/sat-manoeuvres-app/conjunctions"><h4 style={{ color: theme.palette.text.primary }}>Conjunctions</h4></CustomLink>
         ) : (
           <>
-            <CustomLink to={`/conjunctions/${id}/manoeuvres`}><h4 style={{ color: theme.palette.text.primary }}>Manoeuvre Suggestions</h4></CustomLink>
-            <CustomLink to={`/conjunctions/${id}/simulation`}>
+            <CustomLink to={`/sat-manoeuvres-app/conjunctions/${id}/manoeuvres`}><h4 style={{ color: theme.palette.text.primary }}>Manoeuvre Suggestions</h4></CustomLink>
+            <CustomLink to={`/sat-manoeuvres-app/conjunctions/${id}/simulation`}>
               <h4 style={{ color: theme.palette.text.primary }}>Manoeuvre Simulation</h4>
             </CustomLink>
             <Tooltip title={selectedValues.length + " manoeuvres selected for simulation"} placement="bottom" arrow>
