@@ -1,5 +1,4 @@
 import { Box, Typography } from "@mui/material";
-import { useEffect, useState } from 'react';
 import * as React from 'react';
 
 import impulsiveIcon from '../../assets/icons/legendIcons/SimulationLegend/impulsive.svg'
@@ -21,7 +20,8 @@ export const TimelineLegend = ({ active }) => {
       borderRadius: "20px",
       position: 'absolute',
       bottom: 45,
-      right: 0
+      right: 0,
+      zIndex: 5,
     })}>
       <Typography sx={(theme) => ({
         color: theme.palette.text.primary,

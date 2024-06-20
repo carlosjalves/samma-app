@@ -25,6 +25,27 @@ function descendingComparator(a, b, orderBy) {
   const orderByValueA = getValueByPath(a, orderBy);
   const orderByValueB = getValueByPath(b, orderBy);
 
+  // Adicionar lógica específica para a coluna "tca"
+  if (orderBy === 'tca') {
+    const dateA = new Date(orderByValueA);
+    const dateB = new Date(orderByValueB);
+    const now = new Date();
+
+    const isAFuture = dateA >= now;
+    const isBFuture = dateB >= now;
+
+    console.log(isAFuture, isBFuture)
+
+    if (!isAFuture && isBFuture) {
+      return -1;
+    }
+    if (isAFuture && !isBFuture) {
+      return 1;
+    }
+    // Se ambos são futuros ou ambos são passados, ordena normalmente
+    return dateB - dateA; // Para ordenação descendente
+  }
+
   if (orderByValueB < orderByValueA) {
     return -1;
   }
@@ -33,6 +54,7 @@ function descendingComparator(a, b, orderBy) {
   }
   return 0;
 }
+
 
 function getComparator(order, orderBy) {
   return order === 'desc'
@@ -234,7 +256,7 @@ export default function ConjunctionsTable() {
 
   const theme = useTheme();
 
-  const [order, setOrder] = React.useState('desc');
+  const [order, setOrder] = React.useState('asc');
   const [orderBy, setOrderBy] = React.useState('tca');
   const [page, setPage] = React.useState(0);
   const [rowsPerPage, setRowsPerPage] = React.useState(8);

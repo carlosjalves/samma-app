@@ -37,6 +37,7 @@ export const Legend = ({ active }) => {
       borderRadius: "20px",
       position: 'absolute',
       top: positionY + 46,
+      zIndex: 5,
     })}>
 
 

@@ -19,6 +19,8 @@ import SvgIcon from '@mui/material/SvgIcon';
 import WarningIcon from '@mui/icons-material/Warning';
 import CheckCircleRoundedIcon from '@mui/icons-material/CheckCircleRounded';
 import { PlotTooltip } from '../PlotTooltip';
+import KeyboardArrowDownRoundedIcon from '@mui/icons-material/KeyboardArrowDownRounded';
+import KeyboardArrowUpRoundedIcon from '@mui/icons-material/KeyboardArrowUpRounded';
 
 function descendingComparator(a, b, orderBy) {
   if (b[orderBy] < a[orderBy]) {
@@ -110,7 +112,6 @@ EnhancedTableHead.propTypes = {
 };
 
 export default function OverlappingTable({ manoeuvres, overlappingIDs, theme, selectedValues, handleSelectedChange }) {
-  //const theme = useTheme();
 
   // Filtrar manoeuvres baseado nos IDs de overlappingIDs
   const filteredManoeuvres = manoeuvres.filter(manoeuvre => overlappingIDs.includes(manoeuvre.id));
@@ -121,12 +122,8 @@ export default function OverlappingTable({ manoeuvres, overlappingIDs, theme, se
   const [selected, setSelected] = React.useState(selectedValues || []);
   const [page, setPage] = React.useState(0);
   const [rowsPerPage, setRowsPerPage] = React.useState(filteredManoeuvres.length);
-  const [isTableVisible, setIsTableVisible] = useState(false);
+  const [isTableVisible, setIsTableVisible] = useState(true);
   const [hoveredRow, setHoveredRow] = useState(null);
-
-  useEffect(() => {
-    setSelected(selectedValues || []);
-  }, [selectedValues]);
 
   const handleRequestSort = (event, property) => {
     const isAsc = orderBy === property && order === 'asc';
@@ -151,8 +148,7 @@ export default function OverlappingTable({ manoeuvres, overlappingIDs, theme, se
       );
     }
     setSelected(newSelected);
-    handleSelectedChange(newSelected); // Atualize o estado externo
-
+    handleSelectedChange(newSelected);
   };
 
   // Função para alternar a visibilidade da tabela
@@ -201,21 +197,31 @@ export default function OverlappingTable({ manoeuvres, overlappingIDs, theme, se
     <Box sx={{ width: '190px', transform: isTableVisible ? 'translateY(40px)' : 'translateY(230px)', transition: 'transform 0.3s ease-in-out' }}>
       <Paper sx={{ width: '190px', overflow: 'hidden', backgroundColor: theme.palette.primary.main, mb: 2 }}>
         <TableContainer sx={{ maxHeight: 218, position: "relative" }}>
-          <Box className="overlapping" onClick={toggleTableVisibility} sx={{ width: '190px', height: "28px", backgroundColor: theme.palette.primary.main, borderBottom: "1px solid rgba(224, 224, 224, 1)", display: "flex", alignItems: "center", justifyContent: "center", columnGap: "2px", position: "sticky", top: 0, cursor: "pointer" }}>
+          <Box className="overlapping" onClick={toggleTableVisibility} sx={{ width: '190px', height: "28px", backgroundColor: theme.palette.primary.main, borderBottom: "1px solid rgba(224, 224, 224, 1)", display: "flex", alignItems: "center", justifyContent: "center", columnGap: "2px", position: "sticky", top: 0, cursor: "pointer", paddingLeft: "2px" }}>
             {selectedOverlapping.length > 1 ? (
-              <Tooltip title="There are several overlapping manoeuvres at the same time, click here and select just one for simulation" placement='top' arrow>
-                <SvgIcon sx={{ fontSize: "16px", color: "#FFB300", marginRight: "2px" }}>
+              <Tooltip title="There are several overlapping manoeuvres at the same time, select just one for simulation" placement='top' arrow>
+                <SvgIcon sx={{ fontSize: "16px", color: "#FFB300" }}>
                   <WarningIcon />
                 </SvgIcon>
               </Tooltip>
             ) : (
-              <Tooltip title="There are several overlapping manoeuvres at the same time, click here if you want to change the manoeuvre selected for simulation" placement='top' arrow>
-                <SvgIcon sx={{ fontSize: "16px", color: "#25DB61", marginRight: "2px" }}>
+              <Tooltip title="There are several overlapping manoeuvres at the same time, check here if you want to change the manoeuvre selected for simulation" placement='top' arrow>
+                <SvgIcon sx={{ fontSize: "16px", color: "#25DB61" }}>
                   <CheckCircleRoundedIcon />
                 </SvgIcon>
               </Tooltip>
             )}
             <Typography sx={{ fontSize: "13px", fontWeight: 600, color: theme.palette.text.primary }}>Overlapping Manoeuvres</Typography>
+            {isTableVisible ? (
+              <SvgIcon sx={{ fontSize: "20px", color: theme.palette.primary.darkGrey, marginLeft: "-4px", marginTop: "2px" }}>
+                <KeyboardArrowDownRoundedIcon />
+              </SvgIcon>
+            ) : (
+              <SvgIcon sx={{ fontSize: "20px", color: theme.palette.primary.darkGrey, marginLeft: "-4px", marginTop: "1px" }}>
+                <KeyboardArrowUpRoundedIcon />
+              </SvgIcon>
+            )}
+
           </Box>
 
           {isTableVisible && (
