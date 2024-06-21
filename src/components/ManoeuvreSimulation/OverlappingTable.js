@@ -196,7 +196,7 @@ export default function OverlappingTable({ manoeuvres, overlappingIDs, theme, se
   return (
     <Box sx={{ width: '190px', transform: isTableVisible ? 'translateY(40px)' : 'translateY(230px)', transition: 'transform 0.3s ease-in-out' }}>
       <Paper sx={{ width: '190px', overflow: 'hidden', backgroundColor: theme.palette.primary.main, mb: 2 }}>
-        <TableContainer sx={{ maxHeight: 218, position: "relative" }}>
+        <TableContainer sx={{ maxHeight: 218, position: "relative", scrollbarWidth: "none" }}>
           <Box className="overlapping" onClick={toggleTableVisibility} sx={{ width: '190px', height: "28px", backgroundColor: theme.palette.primary.main, borderBottom: "1px solid rgba(224, 224, 224, 1)", display: "flex", alignItems: "center", justifyContent: "center", columnGap: "2px", position: "sticky", top: 0, cursor: "pointer", paddingLeft: "2px" }}>
             {selectedOverlapping.length > 1 ? (
               <Tooltip title="There are several overlapping manoeuvres at the same time, select just one for simulation" placement='top' arrow>
