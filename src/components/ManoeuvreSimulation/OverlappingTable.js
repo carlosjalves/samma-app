@@ -176,10 +176,11 @@ export default function OverlappingTable({ manoeuvres, overlappingIDs, theme, se
   var tcaColor = d3.scaleSequential().domain(d3.extent(manoeuvres, function (d) { return d.tca; })).range(["#FF16FF", "#30E1F1"])
 
   const [isRightAligned, setIsRightAligned] = useState(true);
+  const [isFirstHover, setIsFirstHover] = useState(true);
   const tooltipRef = useRef(null);
 
   useEffect(() => {
-    if (hoveredRowData !== null && tooltipRef.current) {
+    if (hoveredRowData !== null && tooltipRef.current && isFirstHover) {
       const tooltipRect = tooltipRef.current.getBoundingClientRect();
       const windowWidth = window.innerWidth;
 
@@ -189,9 +190,11 @@ export default function OverlappingTable({ manoeuvres, overlappingIDs, theme, se
       } else {
         setIsRightAligned(true);
       }
-    }
-  }, [hoveredRowData]);
 
+      // Atualiza o estado para indicar que o alinhamento já foi definido
+      setIsFirstHover(false);
+    }
+  }, [hoveredRowData, isFirstHover]);
 
   return (
     <Box sx={{ width: '190px', transform: isTableVisible ? 'translateY(40px)' : 'translateY(230px)', transition: 'transform 0.3s ease-in-out' }}>
