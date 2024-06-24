@@ -65,8 +65,8 @@ export default function ManoeuvreSequence() {
       <h1>Manoeuvre Simulation</h1>
 
       <div style={{ display: "flex", justifyContent: "center", flexDirection: "column", marginTop: "20px" }}>
-        <div>
-          <img src={manoeuvreSimulation} alt="Manoeuvre Simulation Orbit Visualization sketch - José Antunes" width="100%" height="auto"></img>
+        <div className='orbit-viz'>
+          <img src={manoeuvreSimulation} alt="Manoeuvre Simulation Orbit Visualization sketch - José Antunes" width="100%" height="100%" id='orbit-bg'></img>
         </div>
         <div style={{ width: "100%" }}>
           <div id='timeline-div' style={{ height: "75px" }}>

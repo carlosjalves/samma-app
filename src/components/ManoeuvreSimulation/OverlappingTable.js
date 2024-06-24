@@ -122,7 +122,7 @@ export default function OverlappingTable({ manoeuvres, overlappingIDs, theme, se
   const [selected, setSelected] = React.useState(selectedValues || []);
   const [page, setPage] = React.useState(0);
   const [rowsPerPage, setRowsPerPage] = React.useState(filteredManoeuvres.length);
-  const [isTableVisible, setIsTableVisible] = useState(true);
+  const [isTableVisible, setIsTableVisible] = useState(false);
   const [hoveredRow, setHoveredRow] = useState(null);
 
   const handleRequestSort = (event, property) => {
@@ -132,6 +132,7 @@ export default function OverlappingTable({ manoeuvres, overlappingIDs, theme, se
   };
 
   const handleClick = (event, id) => {
+    event.stopPropagation(); // Impede a propagação do evento de clique
     const selectedIndex = selected.indexOf(id);
     let newSelected = [];
 
