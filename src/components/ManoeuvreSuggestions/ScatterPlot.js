@@ -140,7 +140,7 @@ const ScatterPlot = ({
       //Set the color for the end (100%)
       linearGradient.append("stop")
         .attr("offset", "100%")
-        .attr("stop-color", (selectedValueColor === 'tca') ? "#FF16FF" : "#74F14E"); //dark blue 
+        .attr("stop-color", (selectedValueColor === 'tca') ? "#FF1760" : "#74F14E"); //dark blue 
 
       //Draw the rectangle and fill with gradient
       svg.append("rect")
@@ -152,7 +152,7 @@ const ScatterPlot = ({
         .style("fill", "url(#linear-gradient)");
 
       var myColor = d3.scaleSequential().domain(d3.extent(data, function (d) { return d[selectedValueColor]; })).range(["#74F14E", "#F9035E"])
-      var tcaColor = d3.scaleSequential().domain(d3.extent(data, function (d) { return d.tca; })).range(["#FF16FF", "#4ADAE7"])
+      var tcaColor = d3.scaleSequential().domain(d3.extent(data, function (d) { return d.tca; })).range(["#FF1760", "#4ADAE7"])
 
       svg.append('g')
         .selectAll("dot")

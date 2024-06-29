@@ -43,7 +43,7 @@ const ManoeuvreGlyph = ({
     const minFuelConsumption = d3.min(data, d => d.fuel_consumption);
     const maxFuelConsumption = d3.max(data, d => d.fuel_consumption);
 
-    var tcaColor = d3.scaleSequential().domain(d3.extent(data, function (d) { return d.tca; })).range(["#FF16FF", "#30E1F1"])
+    var tcaColor = d3.scaleSequential().domain(d3.extent(data, function (d) { return d.tca; })).range(["#FF1760", "#30E1F1"])
 
     // Criar uma escala linear para mapear miss_distance para o intervalo [10, 120]
     const radiusScale = d3.scaleLinear()

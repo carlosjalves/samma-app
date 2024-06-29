@@ -219,7 +219,7 @@ export default function ManoeuvreTable({ conjunctionID, selectedValues, handleSe
     return manoeuvresList.items.filter(item => item.conjunction_id === conjunctionID);
   }, [manoeuvresList, conjunctionID]);
   //const data = manoeuvresList.items;
-  var tcaColor = d3.scaleSequential().domain(d3.extent(manoeuvres, function (d) { return d.tca; })).range(["#FF16FF", "#30E1F1"])
+  var tcaColor = d3.scaleSequential().domain(d3.extent(manoeuvres, function (d) { return d.tca; })).range(["#FF1760", "#30E1F1"])
 
   const handleRequestSort = (event, property) => {
     const isAsc = orderBy === property && order === 'asc';

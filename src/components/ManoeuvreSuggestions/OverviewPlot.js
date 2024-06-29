@@ -169,8 +169,8 @@ const OverviewPlot = ({
         .attr("opacity", activeAxis ? 1 : 0)
         .text(t(`select.${selectedOption}`));
 
-      var myColor = d3.scaleSequential().domain([0, 1]).range(["#FF16FF", "#30E1F1"])
-      var tcaColor = d3.scaleSequential().domain(d3.extent(data, function (d) { return d.tca; })).range(["#FF16FF", "#30E1F1"])
+      var myColor = d3.scaleSequential().domain([0, 1]).range(["#FF1760", "#30E1F1"])
+      var tcaColor = d3.scaleSequential().domain(d3.extent(data, function (d) { return d.tca; })).range(["#FF1760", "#30E1F1"])
 
       function toggleSelected(id) {
         if (selectedValues.includes(id)) {
