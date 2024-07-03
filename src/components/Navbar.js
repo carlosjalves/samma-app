@@ -1,5 +1,5 @@
 import { Link, useMatch, useResolvedPath, useLocation } from "react-router-dom"
-import { IconButton, Tooltip } from "@mui/material"
+import { Box, IconButton, Tooltip, Typography } from "@mui/material"
 import DarkModeIcon from '@mui/icons-material/DarkMode';
 import LightModeIcon from '@mui/icons-material/LightMode';
 import { useTheme } from '@mui/material/styles';
@@ -19,34 +19,15 @@ export default function Navbar() {
 
   const id = pathname.split("/")[3];
 
-  //console.log(id)
-  /* const pathname = location.pathname;
- 
-   // Encontrar a posição do último "/"
-   const lastSlashIndex = pathname.lastIndexOf('/');
- 
-   // Obter a substring a partir da posição do último "/" até o final
-   const route = pathname.substring(lastSlashIndex);
- 
- 
-   const [match, setMatch] = useState();
- 
-   const { matchManoeuvres } = useMatch('/conjunctions/:conjunctionId/manoeuvres');
-   const { matchSequence } = useMatch('/conjunctions/:conjunctionId/sequence');
- 
-   useEffect(() => {
-     if (route === "/manoeuvres") setMatch(matchManoeuvres);
-     if (route === "/sequence") setMatch(matchSequence);
-   }, [matchManoeuvres, matchSequence]);
- 
-   console.log(match)
- */
-
-
   return (
     <nav style={{ display: "flex", position: "fixed", top: "0", left: "0", right: "0", backgroundColor: theme.palette.primary.main, color: "black", justifyContent: "space-between", alignItems: "stretch", gap: "2rem", padding: "0 4rem", height: "60px", boxShadow: "0 0 8.7px 0 rgba(0,0,0,0.25)", zIndex: "2" }}>
-      <Link to="/" style={{ textDecoration: "none" }}>
-
+      <Link to="/sat-manoeuvres-app/" style={{ textDecoration: "none", color: theme.palette.text.primary }}>
+        <Tooltip placement="right" title="Satellite Manoeuvre Monitoring and Analysis Application" PopperProps={{ sx: { '& .MuiTooltip-tooltip': { maxWidth: '325px' } } }}>
+          <Box sx={{ height: "60px", display: "flex", alignItems: "center" }}>
+            <Typography sx={{ fontSize: "20px", fontWeight: 900, color: theme.palette.text.primary, transition: "color 0.3s ease-in-out", '&:hover': { color: theme.palette.primary.active } }}>SMMA</Typography>
+            <Typography sx={{ fontSize: "14px", fontWeight: 700, marginBottom: "9px" }}>app</Typography>
+          </Box>
+        </Tooltip>
       </Link>
 
       <ul style={{ display: "flex", alignItems: "center", gap: "1rem", padding: "0", margin: "0", listStyle: "none" }}>

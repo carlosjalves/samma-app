@@ -34,8 +34,6 @@ function descendingComparator(a, b, orderBy) {
     const isAFuture = dateA >= now;
     const isBFuture = dateB >= now;
 
-    console.log(isAFuture, isBFuture)
-
     if (!isAFuture && isBFuture) {
       return -1;
     }
