@@ -257,7 +257,7 @@ export default function ConjunctionsTable() {
   const [order, setOrder] = React.useState('asc');
   const [orderBy, setOrderBy] = React.useState('tca');
   const [page, setPage] = React.useState(0);
-  const [rowsPerPage, setRowsPerPage] = React.useState(8);
+  const [rowsPerPage, setRowsPerPage] = React.useState(10);
 
   const handleRequestSort = (event, property) => {
     const isAsc = orderBy === property && order === 'asc';
@@ -522,7 +522,7 @@ export default function ConjunctionsTable() {
           </Table>
         </TableContainer>
         <TablePagination
-          rowsPerPageOptions={[8, 16, 24]}
+          rowsPerPageOptions={[10, 20]}
           component="div"
           count={conjunctionsList.items.length}
           rowsPerPage={rowsPerPage}
