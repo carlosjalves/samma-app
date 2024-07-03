@@ -1,6 +1,7 @@
-import { Box, Button, Typography } from "@mui/material";
+import { Box, Button, Typography, Tooltip, SvgIcon } from "@mui/material";
 import { conjunctionsList } from "../assets/mappers";
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
+import InfoOutlinedIcon from '@mui/icons-material/InfoOutlined';
 import { Link } from 'react-router-dom';
 
 
@@ -16,9 +17,26 @@ export default function Home() {
   return (
     <>
       <Box sx={{ display: "flex", flexDirection: "column", height: "70vh", alignItems: "center", justifyContent: "flex-end", rowGap: "100px" }}>
-        <Box sx={{ display: "flex", columnGap: "100px" }}>
-          <Box sx={{ width: "120px" }}>
-            <Typography sx={{ fontSize: "18px", fontWeight: 600 }}>Current Conjunctions</Typography>
+        <Box sx={{ paddingBottom: "80px" }}><Typography sx={{ fontSize: "38px", fontWeight: 700 }}>Satellite Manoeuvre Monitoring and Analysis Application</Typography></Box>
+        <Box sx={{ display: "flex", columnGap: "80px" }}>
+          <Box sx={{ width: "140px" }}>
+            <Typography sx={{ fontSize: "18px", fontWeight: 600 }}>Current Conjunctions
+              <Tooltip arrow placement="top" title="A satellite conjunction is an event where two or more orbiting objects—be they satellites, space stations, or space debris—pass very close to each other in their orbits, potentially risking collision.">
+                <SvgIcon
+                  sx={(theme) => ({
+                    fontSize: "16px",
+                    marginLeft: "4px",
+                    marginBottom: "-3px",
+                    color: theme.palette.primary.lightGrey,
+                    '&:hover': {
+                      color: theme.palette.text.primary, // Change to your desired hover color
+                    },
+                  })}
+                >
+                  <InfoOutlinedIcon />
+                </SvgIcon>
+              </Tooltip>
+            </Typography>
             <Typography sx={{ fontSize: "38px", fontWeight: 500, marginTop: "20px" }}>{conjunction.length}</Typography>
           </Box>
           <Box sx={{ width: "120px" }}>
