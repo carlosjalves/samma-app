@@ -24,7 +24,7 @@ export default function Navbar() {
       <Link to="/sat-manoeuvres-app/" style={{ textDecoration: "none", color: theme.palette.text.primary }}>
         <Tooltip placement="right" title="Satellite Manoeuvre Monitoring and Analysis Application" PopperProps={{ sx: { '& .MuiTooltip-tooltip': { maxWidth: '325px' } } }}>
           <Box sx={{ height: "60px", display: "flex", alignItems: "center" }}>
-            <Typography sx={{ fontSize: "20px", fontWeight: 900, color: theme.palette.text.primary, transition: "color 0.3s ease-in-out", '&:hover': { color: theme.palette.primary.active } }}>SMMA</Typography>
+            <Typography sx={{ fontSize: "20px", fontWeight: 900, color: theme.palette.text.primary, transition: "color 0.3s ease-in-out", '&:hover': { color: theme.palette.primary.active } }}>SAMMA</Typography>
             <Typography sx={{ fontSize: "14px", fontWeight: 700, marginBottom: "9px" }}>app</Typography>
           </Box>
         </Tooltip>
