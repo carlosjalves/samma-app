@@ -1,19 +1,15 @@
 import { alpha, useTheme, Tooltip, SvgIcon } from "@mui/material";
 import * as d3 from "d3";
-import { radial as d3FisheyeRadial } from "d3-fisheye";
+//import { radial as d3FisheyeRadial } from "d3-fisheye";
 //import { fisheye } from 'd3-fisheye';
-import * as d3Fisheye from 'd3-fisheye';
+//import * as d3Fisheye from 'd3-fisheye';
 
 import { useEffect, useRef, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { PlotTooltip } from "../PlotTooltip";
-import ManoeuvreGlyph from '../ManoeuvreGlyph'; // Importe o componente ManoeuvreGlyph
+import ManoeuvreGlyph from '../ManoeuvreGlyph';
 import { createRoot } from 'react-dom/client';
-import ReactDOM from 'react-dom';
 import InfoOutlinedIcon from '@mui/icons-material/InfoOutlined';
-
-//const fisheye = d3Fisheye.fisheye;
-//const radial = d3Fisheye.radial;
 
 const OverviewPlot = ({
   data,
@@ -204,27 +200,6 @@ const OverviewPlot = ({
 
       setTooltipData(newTooltipData);
 
-      // Fisheye effect
-      const fisheyeEffect = d3FisheyeRadial()
-        .radius(200)
-        .distortion(2);
-
-      svg.on("mousemove", function (event) {
-        fisheyeEffect.focus(d3.pointer(event, this));
-
-        stars.each(function (d, i) {
-          const centerX = x(newNum[i].total);
-          const centerY = y(d[selectedOption]);
-          const fisheyePoint = fisheyeEffect([centerX, centerY]);
-
-          stars.attr("transform", "translate(" + 100 + "," + 100 + ")");
-
-        })
-      });
-
-      svg.on("mouseout", function () {
-        stars.attr("transform", "translate(0,0)");
-      });
     }
   }, [widthInPixels, heightInPixels, theme, selectedOption, activeAxis, sliderValues, selectedValues, handleSelectedChange, data, t]);
 
