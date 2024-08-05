@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sat-manoeuvres-app/static/css/main.d041955f.css",
-    "main.js": "/sat-manoeuvres-app/static/js/main.221cb300.js",
+    "main.js": "/sat-manoeuvres-app/static/js/main.a53a8db0.js",
     "static/media/manoeuvreSimulation2.png": "/sat-manoeuvres-app/static/media/manoeuvreSimulation2.767ec89e212a9127aef5.png",
     "static/media/glyph.svg": "/sat-manoeuvres-app/static/media/glyph.11480cb378feff0a8a030d3ede39be19.svg",
     "static/media/fuelConsumption.svg": "/sat-manoeuvres-app/static/media/fuelConsumption.41031b2cc1a302a6e11b3330c3660e7d.svg",
@@ -19,10 +19,10 @@
     "static/media/thrustIconLegend.svg": "/sat-manoeuvres-app/static/media/thrustIconLegend.77e17b00803e5eb0fddfe1fb3883f8ec.svg",
     "static/media/impulsive.svg": "/sat-manoeuvres-app/static/media/impulsive.9dcea1b74412d92398ba2f27ca6ff3e6.svg",
     "static/media/thrust.svg": "/sat-manoeuvres-app/static/media/thrust.be48dd6342e6200d66ea59703e42e11c.svg",
-    "main.221cb300.js.map": "/sat-manoeuvres-app/static/js/main.221cb300.js.map"
+    "main.a53a8db0.js.map": "/sat-manoeuvres-app/static/js/main.a53a8db0.js.map"
   },
   "entrypoints": [
     "static/css/main.d041955f.css",
-    "static/js/main.221cb300.js"
+    "static/js/main.a53a8db0.js"
   ]
 }
