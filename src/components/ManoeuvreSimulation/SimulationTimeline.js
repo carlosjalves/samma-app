@@ -723,33 +723,45 @@ const SimulationTimeline = ({ data, selectedValues, handleSelectedChange }) => {
               active={activeLegend} />
           </Box>
         </div>
-
-        <div style={{ position: "fixed", top: "120px", right: "70px", display: "flex", flexDirection: "column", alignItems: "flex-end" }}>
-          <Typography sx={(theme) => ({
-            color: theme.palette.text.primary,
-            fontSize: "13px",
-            fontWeight: 500,
-            width: "500px",
-            marginBottom: "-4px",
-          })}
-          >Time Range
-          </Typography>
+        <div style={{ position: "relative", top: "-199.5px", display: "flex", flexDirection: "column", alignItems: "center", margin: "0 100px" }}>
           <Slider sx={(theme) => ({
-            width: "500px",
+            width: "100%",
             color: theme.palette.primary.active,
+            borderRadius: 0,
             ".MuiSlider-rail ": {
-              backgroundColor: theme.palette.primary.lightGrey,
+              backgroundColor: theme.palette.primary.disabled,
               opacity: 1,
             },
-            '& .MuiSlider-thumb': {
-              width: "17px",
-              height: "17px",
+            '& .MuiSlider-thumb[data-index="0"]': {
+              width: 0,
+              height: 0,
+              borderLeft: "17px solid transparent",
+              borderRight: "0px solid transparent",
+              borderBottom: `17px solid ${theme.palette.primary.active}`, // Cor do triângulo
+              background: "none",
+              borderRadius: "1px", // Remover borda arredondada
+              marginLeft: "-7px",
+              marginTop: "6px",
+              boxShadow: 'none',
+              cursor: "default",
               '&::after': {
-                width: "17px",
-                height: "17px",
+                display: 'none', // Remove o pseudo-elemento padrão
               },
-              '&:hover': {
-                boxShadow: '0 0 0 5px rgba(0, 0, 0, 0.10)',
+            },
+            '& .MuiSlider-thumb[data-index="1"]': {
+              width: 0,
+              height: 0,
+              borderLeft: "0px solid transparent",
+              borderRight: "17px solid transparent",
+              borderBottom: `17px solid ${theme.palette.primary.active}`, // Cor do triângulo
+              background: "none",
+              borderRadius: "1px", // Remover borda arredondada
+              marginLeft: "7px",
+              marginTop: "6px",
+              boxShadow: 'none',
+              cursor: "default",
+              '&::after': {
+                display: 'none', // Remove o pseudo-elemento padrão
               },
             },
           })}
@@ -761,26 +773,7 @@ const SimulationTimeline = ({ data, selectedValues, handleSelectedChange }) => {
             max={maxTime.getTime()}
             disableSwap
             aria-labelledby="range-slider" />
-          <div style={{ display: "flex", justifyContent: "space-between", width: "500px", marginTop: "-5px" }}>
-            <Typography sx={(theme) => ({
-              color: theme.palette.primary.darkGrey,
-              fontSize: "10px",
-              fontWeight: 400,
-              marginBottom: "-5px",
-            })}
-            >Now
-            </Typography>
-            <Typography sx={(theme) => ({
-              color: theme.palette.primary.darkGrey,
-              fontSize: "10px",
-              fontWeight: 400,
-              marginBottom: "-5px",
-            })}
-            >{formatarTempo(maxTime)}
-            </Typography>
-          </div>
         </div>
-
       </div></>
   );
 };
