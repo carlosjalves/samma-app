@@ -389,6 +389,9 @@ export default function ConjunctionsTable() {
                             onClick={() => {
                               copyIDToClipboard(row.id);
                               toggleIcon(row.id);
+                              setTimeout(() => {
+                                setActiveCellId(null)
+                              }, 700);
                             }}
                           >
                             <ContentCopyTwoToneIcon sx={(theme) => ({ fontSize: 22, color: theme.palette.primary.lightGrey, "path": { opacity: "1" } })} />

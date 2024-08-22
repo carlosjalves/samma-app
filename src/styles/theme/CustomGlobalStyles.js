@@ -110,6 +110,50 @@ const styles = (theme) => ({
   ".manoeuvre-glyph-container.grow": {
     transform: "scale(1)",
   },
+
+  ".scroll": {
+    width: "50px",
+    height: "50px",
+    border: `2px solid ${theme.palette.primary.darkGrey}`,
+    borderRadius: "50%",
+    position: "absolute",
+    bottom: 30,
+    animation: "down 4s infinite",
+    "&::before": {
+      content: '""',
+      position: "absolute",
+      top: "13px",
+      left: "15px",
+      width: "15px",
+      height: "15px",
+      borderLeft: `2px solid ${theme.palette.primary.darkGrey}`,
+      borderBottom: `2px solid ${theme.palette.primary.darkGrey}`,
+      transform: "rotate(-45deg)",
+    },
+  },
+
+  ".scroll-text": {
+    color: theme.palette.primary.darkGrey,
+    fontSize: "13px",
+    lineHeight: 1.3,
+    textAlign: 'center',
+    position: "absolute",
+    bottom: 72,
+    animation: "down 4s infinite",
+    marginLeft: "-10px"
+  },
+
+  "@keyframes down": {
+    "0%": {
+      opacity: "0",
+    },
+    "50%": {
+      opacity: "1",
+    },
+    "100%": {
+      opacity: "0",
+    },
+  },
 });
 
 function CustomGlobalStyles() {

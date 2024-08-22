@@ -35,6 +35,8 @@ export default function ManoeuvreSuggestions() {
   const [activeSliders, setActiveSliders] = useState(false);
   const [activeLegend, setActiveLegend] = useState(false);
 
+  const [show, setShow] = useState(false);
+
   const handleAxisClick = () => {
     setActiveAxis(!activeAxis);
   };
@@ -165,6 +167,37 @@ export default function ManoeuvreSuggestions() {
     setFull(false)
   };
 
+  useEffect(() => {
+    // Declara a variável timer fora do useEffect
+    let timer;
+
+    // Função para exibir os elementos após 10 segundos
+    const startTimer = () => {
+      timer = setTimeout(() => {
+        setShow(true);
+      }, 10000); // 10000 ms = 10 s
+    };
+
+    // Inicia o temporizador
+    startTimer();
+
+    // Função para reiniciar o temporizador ao rolar a página
+    const handleScroll = () => {
+      clearTimeout(timer); // Limpa o temporizador se o usuário rolar
+      setShow(false); // Oculta os elementos
+      //startTimer(); // Reinicia o temporizador
+    };
+
+    // Adiciona o listener de scroll
+    window.addEventListener('scroll', handleScroll);
+
+    // Limpa o listener e o temporizador ao desmontar o componente
+    return () => {
+      clearTimeout(timer);
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []); // Executa uma vez após o componente ser montado
+
   return (
     <>
       <Breadcrumbs separator="›" aria-label="breadcrumb">
@@ -261,6 +294,16 @@ export default function ManoeuvreSuggestions() {
           />
         </Stack>
       </div>
+      <>
+        {show && (
+          <>
+            <p className='scroll-text'>
+              Scroll Down<br />to Analysis
+            </p>
+            <div className="scroll"></div>
+          </>
+        )}
+      </>
       <h2 style={{ paddingTop: selectedValues.length > 0 ? "80px" : "50px" }}>Analysis</h2>
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", marginTop: "-10px", paddingBottom: "18px" }}>
         <h3>Heatmap Table</h3>

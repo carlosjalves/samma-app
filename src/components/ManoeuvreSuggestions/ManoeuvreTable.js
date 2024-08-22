@@ -562,10 +562,11 @@ export default function ManoeuvreTable({ conjunctionID, selectedValues, handleSe
                       {activeCellId === row.id ? (
                         <Tooltip title="Copied" placement="top" arrow>
                           <IconButton
-                            sx={(theme) => ({ color: theme.palette.primary.active, transition: "0.2s ease-in-out" })}
+                            sx={(theme) => ({ color: theme.palette.primary.active, transition: "0.5s ease-in-out" })}
                             onClick={() => {
                               toggleIcon(row.id);
                             }}
+
                           >
                             <svg viewBox="0 0 24 24" width="22" height="22" fill={theme.palette.primary.active}>
                               <path d="M 16 1 H 4 c -1.1 0 -2 0.9 -2 2 v 14 h 2 V 3 h 12 z m 3 4 H 8 c -1.1 0 -2 0.9 -2 2 v 14 c 0 1.1 0.9 2 2 2 h 11 c 1.1 0 2 -0.9 2 -2 V 7 c 0 -1.1 -0.9 -2 -2 -2 m -6 13 L 13 18 Z L 9 15 L 10 14 L 13 16 L 17 10 L 18 11 z" />
@@ -576,10 +577,13 @@ export default function ManoeuvreTable({ conjunctionID, selectedValues, handleSe
                         <>
                           <Tooltip title="Copy ID to clipboard" placement="top" arrow>
                             <IconButton
-                              sx={(theme) => ({ color: theme.palette.primary.lightGrey, transition: "0.2s ease-in-out" })}
+                              sx={(theme) => ({ color: theme.palette.primary.lightGrey, transition: "0.5s ease-in-out" })}
                               onClick={() => {
                                 copyIDToClipboard(row.id);
                                 toggleIcon(row.id);
+                                setTimeout(() => {
+                                  setActiveCellId(null)
+                                }, 700);
                               }}
                             >
                               <ContentCopyTwoToneIcon sx={(theme) => ({ fontSize: 22, color: theme.palette.primary.lightGrey, "path": { opacity: "1" } })} />

@@ -58,11 +58,11 @@ function stableSort(array, comparator, selectedValues) {
 }
 
 const headCells = [
-  { id: 'delta_v', numeric: true, disablePadding: false, label: 'Del' },
-  { id: 'duration', numeric: false, disablePadding: false, label: 'Dur' },
-  { id: 'poc', numeric: true, disablePadding: false, label: 'PoC' },
-  { id: 'miss_distance', numeric: true, disablePadding: false, label: 'MD' },
-  { id: 'fuel_consumption', numeric: true, disablePadding: false, label: 'FC' },
+  { id: 'delta_v', numeric: true, disablePadding: false, label: 'Del', tip: 'Total Delta V' },
+  { id: 'duration', numeric: false, disablePadding: false, label: 'Dur', tip: 'Duration' },
+  { id: 'poc', numeric: true, disablePadding: false, label: 'PoC', tip: 'Probability of Collision' },
+  { id: 'miss_distance', numeric: true, disablePadding: false, label: 'MD', tip: 'Miss Distance' },
+  { id: 'fuel_consumption', numeric: true, disablePadding: false, label: 'FC', tip: 'Fuel Consumption' },
 ];
 
 function EnhancedTableHead(props) {
@@ -90,7 +90,7 @@ function EnhancedTableHead(props) {
               hideSortIcon={true}
               sx={{ height: "28px", ".MuiTableSortLabel-icon": { fontSize: "12px", marginLeft: "1px", marginRight: "0" } }}
             >
-              {headCell.label}
+              <Tooltip title={headCell.tip}>{headCell.label}</Tooltip>
               {orderBy === headCell.id ? (
                 <Box component="span" sx={visuallyHidden}>
                   {order === 'desc' ? 'sorted descending' : 'sorted ascending'}
@@ -333,7 +333,8 @@ export default function OverlappingTable({ manoeuvres, overlappingIDs, theme, se
                   orderBy={orderBy}
                   onRequestSort={handleRequestSort}
                   rowCount={filteredManoeuvres.length} />
-              </Table></>
+              </Table>
+            </>
           )}
         </TableContainer>
         {/* Renderiza o PlotTooltip fora da tabela, usando os dados da linha hoverada */}

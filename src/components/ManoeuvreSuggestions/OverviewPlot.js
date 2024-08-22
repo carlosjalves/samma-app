@@ -113,12 +113,12 @@ const OverviewPlot = ({
         .attr("font-size", "13px")
         .attr("fill", theme.palette.primary.lightGrey)
         .attr("opacity", activeAxis ? 1 : 0)
-        .text("Best Manoeuvre");
+        .text("Best Manoeuvre (Higher is Better)");
 
       const foreignObject = labelGroup.append("foreignObject")
         .attr("width", 20)
         .attr("height", 20)
-        .attr("x", 51)
+        .attr("x", 105)
         .attr("y", -14)
         .attr("opacity", activeAxis ? 1 : 0)
 
