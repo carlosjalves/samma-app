@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/sat-manoeuvres-app/static/css/main.d041955f.css",
-    "main.js": "/sat-manoeuvres-app/static/js/main.cacefba9.js",
-    "static/media/manoeuvreSimulation2.png": "/sat-manoeuvres-app/static/media/manoeuvreSimulation2.767ec89e212a9127aef5.png",
-    "static/media/glyph.svg": "/sat-manoeuvres-app/static/media/glyph.11480cb378feff0a8a030d3ede39be19.svg",
-    "static/media/fuelConsumption.svg": "/sat-manoeuvres-app/static/media/fuelConsumption.41031b2cc1a302a6e11b3330c3660e7d.svg",
-    "static/media/poc.svg": "/sat-manoeuvres-app/static/media/poc.1a05407999bc060358d95fb15d27f478.svg",
-    "index.html": "/sat-manoeuvres-app/index.html",
-    "static/media/axis.svg": "/sat-manoeuvres-app/static/media/axis.af8cfb9fe68f52c161332dd6eb10db58.svg",
-    "static/media/duration.svg": "/sat-manoeuvres-app/static/media/duration.116dca5ed5d2f405daa7c88b5e180ef6.svg",
-    "static/media/sliders.svg": "/sat-manoeuvres-app/static/media/sliders.512bab58dcb4d429bb4480f94ca0a9fb.svg",
-    "static/media/tca.svg": "/sat-manoeuvres-app/static/media/tca.e3eb0c5b2aab9a705cbfaf8ba6c3d55c.svg",
-    "static/media/legend.svg": "/sat-manoeuvres-app/static/media/legend.63b3d4f10736ca4f06ffe8d8880b73f9.svg",
-    "static/media/differentialDragIconLegend.svg": "/sat-manoeuvres-app/static/media/differentialDragIconLegend.f0905194ed267b5573eaadcce02b0653.svg",
-    "static/media/missDistance.svg": "/sat-manoeuvres-app/static/media/missDistance.c2f11b6beabf7ce74a345c91f23cc9ed.svg",
-    "static/media/differentialDrag.svg": "/sat-manoeuvres-app/static/media/differentialDrag.c0eaf8613e0e3275b012b1228c35df72.svg",
-    "static/media/impulsiveIconLegend.svg": "/sat-manoeuvres-app/static/media/impulsiveIconLegend.96f16f04ea852d35feed1e435a53707e.svg",
-    "static/media/thrustIconLegend.svg": "/sat-manoeuvres-app/static/media/thrustIconLegend.77e17b00803e5eb0fddfe1fb3883f8ec.svg",
-    "static/media/impulsive.svg": "/sat-manoeuvres-app/static/media/impulsive.9dcea1b74412d92398ba2f27ca6ff3e6.svg",
-    "static/media/thrust.svg": "/sat-manoeuvres-app/static/media/thrust.be48dd6342e6200d66ea59703e42e11c.svg",
-    "main.cacefba9.js.map": "/sat-manoeuvres-app/static/js/main.cacefba9.js.map"
+    "main.css": "/samma-app/static/css/main.d041955f.css",
+    "main.js": "/samma-app/static/js/main.5fc962ef.js",
+    "static/media/manoeuvreSimulation2.png": "/samma-app/static/media/manoeuvreSimulation2.767ec89e212a9127aef5.png",
+    "static/media/glyph.svg": "/samma-app/static/media/glyph.11480cb378feff0a8a030d3ede39be19.svg",
+    "static/media/fuelConsumption.svg": "/samma-app/static/media/fuelConsumption.41031b2cc1a302a6e11b3330c3660e7d.svg",
+    "static/media/poc.svg": "/samma-app/static/media/poc.1a05407999bc060358d95fb15d27f478.svg",
+    "static/media/axis.svg": "/samma-app/static/media/axis.af8cfb9fe68f52c161332dd6eb10db58.svg",
+    "index.html": "/samma-app/index.html",
+    "static/media/duration.svg": "/samma-app/static/media/duration.116dca5ed5d2f405daa7c88b5e180ef6.svg",
+    "static/media/sliders.svg": "/samma-app/static/media/sliders.512bab58dcb4d429bb4480f94ca0a9fb.svg",
+    "static/media/tca.svg": "/samma-app/static/media/tca.e3eb0c5b2aab9a705cbfaf8ba6c3d55c.svg",
+    "static/media/legend.svg": "/samma-app/static/media/legend.63b3d4f10736ca4f06ffe8d8880b73f9.svg",
+    "static/media/differentialDragIconLegend.svg": "/samma-app/static/media/differentialDragIconLegend.f0905194ed267b5573eaadcce02b0653.svg",
+    "static/media/missDistance.svg": "/samma-app/static/media/missDistance.c2f11b6beabf7ce74a345c91f23cc9ed.svg",
+    "static/media/differentialDrag.svg": "/samma-app/static/media/differentialDrag.c0eaf8613e0e3275b012b1228c35df72.svg",
+    "static/media/impulsiveIconLegend.svg": "/samma-app/static/media/impulsiveIconLegend.96f16f04ea852d35feed1e435a53707e.svg",
+    "static/media/thrustIconLegend.svg": "/samma-app/static/media/thrustIconLegend.77e17b00803e5eb0fddfe1fb3883f8ec.svg",
+    "static/media/impulsive.svg": "/samma-app/static/media/impulsive.9dcea1b74412d92398ba2f27ca6ff3e6.svg",
+    "static/media/thrust.svg": "/samma-app/static/media/thrust.be48dd6342e6200d66ea59703e42e11c.svg",
+    "main.5fc962ef.js.map": "/samma-app/static/js/main.5fc962ef.js.map"
   },
   "entrypoints": [
     "static/css/main.d041955f.css",
-    "static/js/main.cacefba9.js"
+    "static/js/main.5fc962ef.js"
   ]
 }
