@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://carlosjalves.github.io/sat-manoeuvres-app",
+  "homepage": "https://carlosjalves.github.io/samma-app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",

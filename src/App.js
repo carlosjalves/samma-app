@@ -20,12 +20,12 @@ export default function App() {
     <>
       <SelectedValuesProvider>
         <ThemeSetup>
-          {location.pathname !== '/sat-manoeuvres-app/' && <Navbar />}
+          {location.pathname !== '/samma-app/' && <Navbar />}
           <Routes>
-            <Route path='/sat-manoeuvres-app' element={<Home />} />
-            <Route path='/sat-manoeuvres-app/conjunctions' element={<Conjunctions />} />
-            <Route path='/sat-manoeuvres-app/conjunctions/:conjunctionId/manoeuvres' element={<ManoeuvreSuggestions />} />
-            <Route path='/sat-manoeuvres-app/conjunctions/:conjunctionId/simulation' element={<ManoeuvreSequence />} />
+            <Route path='/samma-app' element={<Home />} />
+            <Route path='/samma-app/conjunctions' element={<Conjunctions />} />
+            <Route path='/samma-app/conjunctions/:conjunctionId/manoeuvres' element={<ManoeuvreSuggestions />} />
+            <Route path='/samma-app/conjunctions/:conjunctionId/simulation' element={<ManoeuvreSequence />} />
           </Routes>
         </ThemeSetup>
       </SelectedValuesProvider>

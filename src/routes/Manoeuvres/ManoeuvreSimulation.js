@@ -41,7 +41,7 @@ export default function ManoeuvreSequence() {
   const manoeuvres = manoeuvresList.items.filter(item => item.conjunction_id === conjunctionId)
 
   const breadcrumbs = [
-    <Link underline="hover" key="1" fontSize="15px" href="/sat-manoeuvres-app/conjunctions" to="sat-manoeuvres-app/conjunctions" sx={({ palette }) => ({ color: palette.primary.darkGrey })}>
+    <Link underline="hover" key="1" fontSize="15px" href="/samma-app/conjunctions" to="/samma-app/conjunctions" sx={({ palette }) => ({ color: palette.primary.darkGrey })}>
       Conjunctions
     </Link>,
     <Box key="2" sx={{ display: "flex" }}>

@@ -21,7 +21,7 @@ export default function Navbar() {
 
   return (
     <nav style={{ display: "flex", position: "fixed", top: "0", left: "0", right: "0", backgroundColor: theme.palette.primary.main, color: "black", justifyContent: "space-between", alignItems: "stretch", gap: "2rem", padding: "0 4rem", height: "60px", boxShadow: "0 0 8.7px 0 rgba(0,0,0,0.25)", zIndex: "2" }}>
-      <Link to="/sat-manoeuvres-app/" style={{ textDecoration: "none", color: theme.palette.text.primary }}>
+      <Link to="/samma-app/" style={{ textDecoration: "none", color: theme.palette.text.primary }}>
         <Tooltip placement="right" title="Satellite Manoeuvre Monitoring and Analysis Application" PopperProps={{ sx: { '& .MuiTooltip-tooltip': { maxWidth: '325px' } } }}>
           <Box sx={{ height: "60px", display: "flex", alignItems: "center" }}>
             <Typography sx={{ fontSize: "20px", fontWeight: 900, color: theme.palette.text.primary, transition: "color 0.3s ease-in-out", '&:hover': { color: theme.palette.primary.active } }}>SAMMA</Typography>
@@ -31,12 +31,12 @@ export default function Navbar() {
       </Link>
 
       <ul style={{ display: "flex", alignItems: "center", gap: "1rem", padding: "0", margin: "0", listStyle: "none" }}>
-        {(location.pathname === "/sat-manoeuvres-app/" || location.pathname === "/sat-manoeuvres-app/conjunctions") ? (
-          <CustomLink to="/sat-manoeuvres-app/conjunctions"><h4 style={{ color: theme.palette.text.primary }}>Conjunctions</h4></CustomLink>
+        {(location.pathname === "/samma-app/" || location.pathname === "/samma-app/conjunctions") ? (
+          <CustomLink to="/samma-app/conjunctions"><h4 style={{ color: theme.palette.text.primary }}>Conjunctions</h4></CustomLink>
         ) : (
           <>
-            <CustomLink to={`/sat-manoeuvres-app/conjunctions/${id}/manoeuvres`}><h4 style={{ color: theme.palette.text.primary }}>Manoeuvre Suggestions</h4></CustomLink>
-            <CustomLink to={`/sat-manoeuvres-app/conjunctions/${id}/simulation`}>
+            <CustomLink to={`/samma-app/conjunctions/${id}/manoeuvres`}><h4 style={{ color: theme.palette.text.primary }}>Manoeuvre Suggestions</h4></CustomLink>
+            <CustomLink to={`/samma-app/conjunctions/${id}/simulation`}>
               <h4 style={{ color: theme.palette.text.primary }}>Manoeuvre Simulation</h4>
             </CustomLink>
             <Tooltip title={selectedValues.length + " manoeuvres selected for simulation"} placement="bottom" arrow>
