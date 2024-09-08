@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/samma-app/static/css/main.d041955f.css",
-    "main.js": "/samma-app/static/js/main.d3026a67.js",
+    "main.js": "/samma-app/static/js/main.34a0db56.js",
     "static/media/manoeuvreSimulation2.png": "/samma-app/static/media/manoeuvreSimulation2.767ec89e212a9127aef5.png",
     "static/media/glyph.svg": "/samma-app/static/media/glyph.11480cb378feff0a8a030d3ede39be19.svg",
     "static/media/fuelConsumption.svg": "/samma-app/static/media/fuelConsumption.41031b2cc1a302a6e11b3330c3660e7d.svg",
@@ -19,10 +19,10 @@
     "static/media/thrustIconLegend.svg": "/samma-app/static/media/thrustIconLegend.77e17b00803e5eb0fddfe1fb3883f8ec.svg",
     "static/media/impulsive.svg": "/samma-app/static/media/impulsive.9dcea1b74412d92398ba2f27ca6ff3e6.svg",
     "static/media/thrust.svg": "/samma-app/static/media/thrust.be48dd6342e6200d66ea59703e42e11c.svg",
-    "main.d3026a67.js.map": "/samma-app/static/js/main.d3026a67.js.map"
+    "main.34a0db56.js.map": "/samma-app/static/js/main.34a0db56.js.map"
   },
   "entrypoints": [
     "static/css/main.d041955f.css",
-    "static/js/main.d3026a67.js"
+    "static/js/main.34a0db56.js"
   ]
 }
