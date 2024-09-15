@@ -17,8 +17,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -30,7 +30,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.0658218470881593,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -47,7 +47,7 @@
       "sum_total_delta_v": 0.07136363636363637,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 7.621254772202346e-7,
         "miss_distance": {
           "r": 269.6485830659572,
@@ -169,8 +169,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -182,7 +182,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.07148121162117604,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -199,7 +199,7 @@
       "sum_total_delta_v": 0.0775,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 4.735515207362072e-7,
         "miss_distance": {
           "r": 291.86063781308394,
@@ -321,8 +321,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -334,7 +334,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.06770831030428326,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -351,7 +351,7 @@
       "sum_total_delta_v": 0.07340909090909091,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 6.529208112291719e-7,
         "miss_distance": {
           "r": 277.0525480087933,
@@ -473,8 +473,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -486,7 +486,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.06393537550019346,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -503,7 +503,7 @@
       "sum_total_delta_v": 0.06931818181818182,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 8.860781993409606e-7,
         "miss_distance": {
           "r": 262.24467149199216,
@@ -625,8 +625,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -638,7 +638,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.06959476514862217,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -655,7 +655,7 @@
       "sum_total_delta_v": 0.07545454545454545,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 5.571525329973969e-7,
         "miss_distance": {
           "r": 284.45656625521,
@@ -777,8 +777,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -790,7 +790,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.07902691379467797,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -807,7 +807,7 @@
       "sum_total_delta_v": 0.08568181818181818,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 2.375386445593426e-7,
         "miss_distance": {
           "r": 321.4774573497537,
@@ -929,8 +929,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -942,7 +942,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.07525407945121287,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -959,7 +959,7 @@
       "sum_total_delta_v": 0.08159090909090909,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 3.380585489526456e-7,
         "miss_distance": {
           "r": 306.6689409457877,
@@ -1081,8 +1081,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -1094,7 +1094,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.08091331840898874,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -1111,7 +1111,7 @@
       "sum_total_delta_v": 0.08772727272727272,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 1.9793585853853677e-7,
         "miss_distance": {
           "r": 328.88179555350547,
@@ -1233,8 +1233,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -1246,7 +1246,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.07714050080875268,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -1263,7 +1263,7 @@
       "sum_total_delta_v": 0.08363636363636363,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 2.839379283283246e-7,
         "miss_distance": {
           "r": 314.07317249026016,
@@ -1385,8 +1385,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -1398,7 +1398,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.07336764972200172,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -1415,7 +1415,7 @@
       "sum_total_delta_v": 0.07954545454545454,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 4.009035044606525e-7,
         "miss_distance": {
           "r": 299.26476271987997,
@@ -1537,8 +1537,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -1550,7 +1550,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.08845885315133728,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -1567,7 +1567,7 @@
       "sum_total_delta_v": 0.09590909090909092,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 9.172293800919442e-8,
         "miss_distance": {
           "r": 358.49968153353075,
@@ -1689,8 +1689,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -1702,7 +1702,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.08279971465174185,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -1719,7 +1719,7 @@
       "sum_total_delta_v": 0.08977272727272727,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 1.6428351550581097e-7,
         "miss_distance": {
           "r": 336.28618706393553,
@@ -1841,8 +1841,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -1854,7 +1854,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.08468610252305098,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -1871,7 +1871,7 @@
       "sum_total_delta_v": 0.09181818181818181,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 1.3581344388595982e-7,
         "miss_distance": {
           "r": 343.69063190131806,
@@ -1993,8 +1993,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -2006,7 +2006,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.09034521590831446,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -2023,7 +2023,7 @@
       "sum_total_delta_v": 0.09795454545454546,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 7.493147872977136e-8,
         "miss_distance": {
           "r": 365.9042863398179,
@@ -2145,8 +2145,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -2158,7 +2158,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.08657248202291612,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -2175,7 +2175,7 @@
       "sum_total_delta_v": 0.09386363636363637,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 1.1183320317709572e-7,
         "miss_distance": {
           "r": 351.09513005857207,
@@ -2297,8 +2297,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -2310,7 +2310,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.08091331840898874,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -2327,7 +2327,7 @@
       "sum_total_delta_v": 0.08772727272727272,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 6.893093876646267e-7,
         "miss_distance": {
           "r": 306.051964765766,
@@ -2449,8 +2449,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -2462,7 +2462,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.07902691379467797,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -2479,7 +2479,7 @@
       "sum_total_delta_v": 0.08568181818181818,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 8.034241446338136e-7,
         "miss_distance": {
           "r": 298.65214832654067,
@@ -2601,8 +2601,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -2614,7 +2614,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.08279971465174185,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -2631,7 +2631,7 @@
       "sum_total_delta_v": 0.08977272727272727,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 5.890688071457527e-7,
         "miss_distance": {
           "r": 313.4517278265692,
@@ -2753,8 +2753,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -2766,7 +2766,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.07714050080875268,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -2783,7 +2783,7 @@
       "sum_total_delta_v": 0.08363636363636363,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 9.327345116953271e-7,
         "miss_distance": {
           "r": 291.25227854692037,
@@ -2905,8 +2905,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -2918,7 +2918,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.09223157029401818,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -2935,7 +2935,7 @@
       "sum_total_delta_v": 0.1,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 6.097190912784995e-8,
         "miss_distance": {
           "r": 373.30894209053633,
@@ -3057,8 +3057,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -3070,7 +3070,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.08468610252305098,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -3087,7 +3087,7 @@
       "sum_total_delta_v": 0.09181818181818181,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 5.014185713546445e-7,
         "miss_distance": {
           "r": 320.85143756828955,
@@ -3209,8 +3209,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -3222,7 +3222,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.08657248202291612,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -3239,7 +3239,7 @@
       "sum_total_delta_v": 0.09386363636363637,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 4.251257369865168e-7,
         "miss_distance": {
           "r": 328.25109394246687,
@@ -3361,8 +3361,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -3374,7 +3374,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.08845885315133728,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -3391,7 +3391,7 @@
       "sum_total_delta_v": 0.09590909090909092,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 3.5901865156802964e-7,
         "miss_distance": {
           "r": 335.65069697028133,
@@ -3513,8 +3513,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -3526,7 +3526,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.09223157029401818,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -3543,7 +3543,7 @@
       "sum_total_delta_v": 0.1,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 2.530254940156533e-7,
         "miss_distance": {
           "r": 350.4497429638493,
@@ -3665,8 +3665,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:53:50.297107+00:00",
-      "epoch": "2024-09-15T03:53:50.297107+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:53:50.297107+00:00",
+      "epoch": "2024-09-22T03:53:50.297107+00:00",
       "state_vector": {
         "x": -1740922.6766768,
         "y": -1790267.4739568508,
@@ -3678,7 +3678,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:53:50.297107+00:00",
+          "ignition_epoch": "2024-09-22T03:53:50.297107+00:00",
           "fuel_consumption": 0.09034521590831446,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -3695,7 +3695,7 @@
       "sum_total_delta_v": 0.09795454545454546,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS7TH8DDN614Z6XFWAGC9",
-        "tca": "2024-09-15T03:55:06.695+00:00",
+        "tca": "2024-09-22T03:55:06.695+00:00",
         "poc": 3.019946807556847e-7,
         "miss_distance": {
           "r": 343.0502466461694,
@@ -3817,8 +3817,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -3830,7 +3830,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.06204889554038573,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -3847,7 +3847,7 @@
       "sum_total_delta_v": 0.06727272727272728,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 6.748081014367621e-7,
         "miss_distance": {
           "r": 266.8098061437171,
@@ -3969,8 +3969,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -3982,7 +3982,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.060162407208622426,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -3999,7 +3999,7 @@
       "sum_total_delta_v": 0.06522727272727273,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 8.070166509450826e-7,
         "miss_distance": {
           "r": 259.4056564143316,
@@ -4121,8 +4121,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -4134,7 +4134,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.06393537550019346,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -4151,7 +4151,7 @@
       "sum_total_delta_v": 0.06931818181818182,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 5.613499943048264e-7,
         "miss_distance": {
           "r": 274.21400920493744,
@@ -4273,8 +4273,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -4286,7 +4286,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.05827591050496039,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -4303,7 +4303,7 @@
       "sum_total_delta_v": 0.06318181818181819,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 9.601528970203864e-7,
         "miss_distance": {
           "r": 252.00156000331964,
@@ -4425,8 +4425,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -4438,7 +4438,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.0658218470881593,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -4455,7 +4455,7 @@
       "sum_total_delta_v": 0.07136363636363637,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 4.6456100055118006e-7,
         "miss_distance": {
           "r": 281.61826559765206,
@@ -4577,8 +4577,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -4590,7 +4590,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.07148121162123289,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -4607,7 +4607,7 @@
       "sum_total_delta_v": 0.0775,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 2.552718126082269e-7,
         "miss_distance": {
           "r": 303.8313546968425,
@@ -4729,8 +4729,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -4742,7 +4742,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.06959476514867902,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -4759,7 +4759,7 @@
       "sum_total_delta_v": 0.07545454545454545,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 3.13276176419994e-7,
         "miss_distance": {
           "r": 296.426938327774,
@@ -4881,8 +4881,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -4894,7 +4894,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.0677083103043401,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -4911,7 +4911,7 @@
       "sum_total_delta_v": 0.07340909090909091,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 3.8247875278317004e-7,
         "miss_distance": {
           "r": 289.0225752982525,
@@ -5033,8 +5033,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -5046,7 +5046,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.07336764972205856,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -5063,7 +5063,7 @@
       "sum_total_delta_v": 0.07954545454545454,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 2.0693490005854086e-7,
         "miss_distance": {
           "r": 311.2358243807181,
@@ -5185,8 +5185,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -5198,7 +5198,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.07525407945126972,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -5215,7 +5215,7 @@
       "sum_total_delta_v": 0.08159090909090909,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 1.6688601964754416e-7,
         "miss_distance": {
           "r": 318.6403473928439,
@@ -5337,8 +5337,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -5350,7 +5350,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.08468610252310782,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -5367,7 +5367,7 @@
       "sum_total_delta_v": 0.09181818181818181,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 5.2684064640709986e-8,
         "miss_distance": {
           "r": 355.66376228290795,
@@ -5489,8 +5489,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -5502,7 +5502,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.08091331840898874,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -5519,7 +5519,7 @@
       "sum_total_delta_v": 0.08772727272727272,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 8.486138256818649e-8,
         "miss_distance": {
           "r": 340.8542363623052,
@@ -5641,8 +5641,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -5654,7 +5654,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.07902691379467797,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -5671,7 +5671,7 @@
       "sum_total_delta_v": 0.08568181818181818,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 1.0687058541976967e-7,
         "miss_distance": {
           "r": 333.44955338454,
@@ -5793,8 +5793,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -5806,7 +5806,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.07714050080875268,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -5823,7 +5823,7 @@
       "sum_total_delta_v": 0.08363636363636363,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 1.3389410478381758e-7,
         "miss_distance": {
           "r": 326.0449237234517,
@@ -5945,8 +5945,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -5958,7 +5958,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.0827997146517987,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -5975,7 +5975,7 @@
       "sum_total_delta_v": 0.08977272727272727,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 6.703739792160777e-8,
         "miss_distance": {
           "r": 348.2589726578748,
@@ -6097,8 +6097,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -6110,7 +6110,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.09223157029407503,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -6127,7 +6127,7 @@
       "sum_total_delta_v": 0.1,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 1.90843577423544e-8,
         "miss_distance": {
           "r": 385.2834540013091,
@@ -6249,8 +6249,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -6262,7 +6262,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.08657248202291612,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -6279,7 +6279,7 @@
       "sum_total_delta_v": 0.09386363636363637,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 4.119043968322867e-8,
         "miss_distance": {
           "r": 363.0686052282029,
@@ -6401,8 +6401,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -6414,7 +6414,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.08845885315133728,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -6431,7 +6431,7 @@
       "sum_total_delta_v": 0.09590909090909092,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 3.2038233248595836e-8,
         "miss_distance": {
           "r": 370.4735015081529,
@@ -6553,8 +6553,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -6566,7 +6566,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.0677083103043401,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -6583,7 +6583,7 @@
       "sum_total_delta_v": 0.07340909090909091,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 8.810059838810252e-7,
         "miss_distance": {
           "r": 242.3068495051881,
@@ -6705,8 +6705,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -6718,7 +6718,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.0903452159083713,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -6735,7 +6735,7 @@
       "sum_total_delta_v": 0.09795454545454546,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 2.4791089681552725e-8,
         "miss_distance": {
           "r": 377.87845109335126,
@@ -6857,8 +6857,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -6870,7 +6870,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.07336764972205856,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -6887,7 +6887,7 @@
       "sum_total_delta_v": 0.07954545454545454,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 5.112633816406936e-7,
         "miss_distance": {
           "r": 264.5081333511797,
@@ -7009,8 +7009,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -7022,7 +7022,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.07148121162123289,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -7039,7 +7039,7 @@
       "sum_total_delta_v": 0.0775,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 6.161174526181327e-7,
         "miss_distance": {
           "r": 257.10775875698465,
@@ -7161,8 +7161,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -7174,7 +7174,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.07714050080875268,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -7191,7 +7191,7 @@
       "sum_total_delta_v": 0.08363636363636363,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 3.466450459483191e-7,
         "miss_distance": {
           "r": 279.3087224856929,
@@ -7313,8 +7313,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -7326,7 +7326,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.07525407945126972,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -7343,7 +7343,7 @@
       "sum_total_delta_v": 0.08159090909090909,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 4.220706633505122e-7,
         "miss_distance": {
           "r": 271.90845459204905,
@@ -7465,8 +7465,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -7478,7 +7478,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.06959476514867902,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -7495,7 +7495,7 @@
       "sum_total_delta_v": 0.07545454545454545,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 7.386549027394068e-7,
         "miss_distance": {
           "r": 249.70733080534941,
@@ -7617,8 +7617,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -7630,7 +7630,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.08091331840898874,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -7647,7 +7647,7 @@
       "sum_total_delta_v": 0.08772727272727272,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 2.302305335696939e-7,
         "miss_distance": {
           "r": 294.10909823475896,
@@ -7769,8 +7769,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -7782,7 +7782,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.08468610252310782,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -7799,7 +7799,7 @@
       "sum_total_delta_v": 0.09181818181818181,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 1.4978863445666187e-7,
         "miss_distance": {
           "r": 308.90926056120315,
@@ -7921,8 +7921,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -7934,7 +7934,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.08657248202291612,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -7951,7 +7951,7 @@
       "sum_total_delta_v": 0.09386363636363637,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 1.1988813839395986e-7,
         "miss_distance": {
           "r": 316.30926169730003,
@@ -8073,8 +8073,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -8086,7 +8086,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.0827997146517987,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -8103,7 +8103,7 @@
       "sum_total_delta_v": 0.08977272727272727,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 1.861834668668481e-7,
         "miss_distance": {
           "r": 301.50920607734844,
@@ -8225,8 +8225,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -8238,7 +8238,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.07902691379467797,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -8255,7 +8255,7 @@
       "sum_total_delta_v": 0.08568181818181818,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 2.8323324757614917e-7,
         "miss_distance": {
           "r": 286.7089370276082,
@@ -8377,8 +8377,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -8390,7 +8390,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.09223157029407503,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -8407,7 +8407,7 @@
       "sum_total_delta_v": 0.1,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 5.959727851476985e-8,
         "miss_distance": {
           "r": 338.50894500051504,
@@ -8529,8 +8529,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -8542,7 +8542,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.0903452159083713,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -8559,7 +8559,7 @@
       "sum_total_delta_v": 0.09795454545454546,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 7.562231170077981e-8,
         "miss_distance": {
           "r": 331.1091039162137,
@@ -8681,8 +8681,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:35:49.920677+00:00",
-      "epoch": "2024-09-15T03:35:49.920677+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:35:49.920677+00:00",
+      "epoch": "2024-09-22T03:35:49.920677+00:00",
       "state_vector": {
         "x": -1744471.7096037783,
         "y": -1793140.2777382147,
@@ -8694,7 +8694,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:35:49.920677+00:00",
+          "ignition_epoch": "2024-09-22T03:35:49.920677+00:00",
           "fuel_consumption": 0.08845885315133728,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -8711,7 +8711,7 @@
       "sum_total_delta_v": 0.09590909090909092,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVFQS1937T8YBBJJ9F3NRQ2G",
-        "tca": "2024-09-15T03:55:06.325999+00:00",
+        "tca": "2024-09-22T03:55:06.325999+00:00",
         "poc": 9.546259345881127e-8,
         "miss_distance": {
           "r": 323.70920948801137,
@@ -8833,8 +8833,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -8846,7 +8846,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.07148121162117604,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -8863,7 +8863,7 @@
       "sum_total_delta_v": 0.0775,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 8.535303120431559e-7,
         "miss_distance": {
           "r": 228.15809257689136,
@@ -8985,8 +8985,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -8998,7 +8998,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.07525407945121287,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -9015,7 +9015,7 @@
       "sum_total_delta_v": 0.08159090909090909,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 5.674727372659418e-7,
         "miss_distance": {
           "r": 242.9668002103417,
@@ -9137,8 +9137,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -9150,7 +9150,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.07714050080875268,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -9167,7 +9167,7 @@
       "sum_total_delta_v": 0.08363636363636363,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 4.5835337745145315e-7,
         "miss_distance": {
           "r": 250.3712340093245,
@@ -9289,8 +9289,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -9302,7 +9302,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.07902691379467797,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -9319,7 +9319,7 @@
       "sum_total_delta_v": 0.08568181818181818,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 3.6788950761602653e-7,
         "miss_distance": {
           "r": 257.77572113252876,
@@ -9441,8 +9441,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -9454,7 +9454,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.07336764972200172,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -9471,7 +9471,7 @@
       "sum_total_delta_v": 0.07954545454545454,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 6.981538774809576e-7,
         "miss_distance": {
           "r": 235.56241975100153,
@@ -9593,8 +9593,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -9606,7 +9606,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.08657248202291612,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -9623,7 +9623,7 @@
       "sum_total_delta_v": 0.09386363636363637,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 1.4335058987223616e-7,
         "miss_distance": {
           "r": 287.3942028246209,
@@ -9745,8 +9745,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -9758,7 +9758,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.08279971465174185,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -9775,7 +9775,7 @@
       "sum_total_delta_v": 0.08977272727272727,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 2.3256036967517753e-7,
         "miss_distance": {
           "r": 272.5848553427068,
@@ -9897,8 +9897,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -9910,7 +9910,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.08468610252305098,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -9927,7 +9927,7 @@
       "sum_total_delta_v": 0.09181818181818181,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 1.831626594788072e-7,
         "miss_distance": {
           "r": 279.9895024248427,
@@ -10049,8 +10049,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -10062,7 +10062,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.08845885315133728,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -10079,7 +10079,7 @@
       "sum_total_delta_v": 0.09590909090909092,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 1.1148675756586335e-7,
         "miss_distance": {
           "r": 294.7989565507641,
@@ -10201,8 +10201,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -10214,7 +10214,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.08091331840898874,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -10231,7 +10231,7 @@
       "sum_total_delta_v": 0.08772727272727272,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 2.9342414290435323e-7,
         "miss_distance": {
           "r": 265.18026156226983,
@@ -10353,8 +10353,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -10366,7 +10366,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.04884330140600923,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -10383,7 +10383,7 @@
       "sum_total_delta_v": 0.05295454545454546,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 6.963774488825045e-7,
         "miss_distance": {
           "r": 243.9632745808073,
@@ -10505,8 +10505,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -10518,7 +10518,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.05072983996996072,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -10535,7 +10535,7 @@
       "sum_total_delta_v": 0.05500000000000001,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 5.660364748543645e-7,
         "miss_distance": {
           "r": 251.36414682171795,
@@ -10657,8 +10657,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -10670,7 +10670,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.04695675446981795,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -10687,7 +10687,7 @@
       "sum_total_delta_v": 0.05090909090909091,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 8.513539669151284e-7,
         "miss_distance": {
           "r": 236.56234898590014,
@@ -10809,8 +10809,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -10822,7 +10822,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.09223157029401818,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -10839,7 +10839,7 @@
       "sum_total_delta_v": 0.1,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 6.616897942411018e-8,
         "miss_distance": {
           "r": 309.60862397771973,
@@ -10961,8 +10961,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -10974,7 +10974,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.09034521590831446,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -10991,7 +10991,7 @@
       "sum_total_delta_v": 0.09795454545454546,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 8.616051517842813e-8,
         "miss_distance": {
           "r": 302.2037636043652,
@@ -11113,8 +11113,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -11126,7 +11126,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.054502891981542234,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -11143,7 +11143,7 @@
       "sum_total_delta_v": 0.0590909090909091,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 3.6697765814201635e-7,
         "miss_distance": {
           "r": 266.1657312889622,
@@ -11265,8 +11265,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -11278,7 +11278,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.060162407208622426,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -11295,7 +11295,7 @@
       "sum_total_delta_v": 0.06522727272727273,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 1.8273539507185553e-7,
         "miss_distance": {
           "r": 288.3677078797323,
@@ -11417,8 +11417,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -11430,7 +11430,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.05827591050490355,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -11447,7 +11447,7 @@
       "sum_total_delta_v": 0.06318181818181819,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 2.3200439990479637e-7,
         "miss_distance": {
           "r": 280.96710237227524,
@@ -11569,8 +11569,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -11582,7 +11582,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.0563894054292291,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -11599,7 +11599,7 @@
       "sum_total_delta_v": 0.06113636363636364,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 2.927084245203739e-7,
         "miss_distance": {
           "r": 273.56644350983794,
@@ -11721,8 +11721,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -11734,7 +11734,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.05261637016178611,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -11751,7 +11751,7 @@
       "sum_total_delta_v": 0.05704545454545455,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 4.5720331940663295e-7,
         "miss_distance": {
           "r": 258.7649657280494,
@@ -11873,8 +11873,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -11886,7 +11886,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.062048895540328886,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -11903,7 +11903,7 @@
       "sum_total_delta_v": 0.06727272727272728,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 1.4302588444918073e-7,
         "miss_distance": {
           "r": 295.7682600492419,
@@ -12025,8 +12025,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -12038,7 +12038,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.06770831030428326,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -12055,7 +12055,7 @@
       "sum_total_delta_v": 0.07340909090909091,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 6.603651487849242e-8,
         "miss_distance": {
           "r": 317.9695964642,
@@ -12177,8 +12177,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -12190,7 +12190,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.0658218470881593,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -12207,7 +12207,7 @@
       "sum_total_delta_v": 0.07136363636363637,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 8.59795805194006e-8,
         "miss_distance": {
           "r": 310.56920434366185,
@@ -12329,8 +12329,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -12342,7 +12342,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.06959476514862217,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -12359,7 +12359,7 @@
       "sum_total_delta_v": 0.07545454545454545,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 5.040094691255317e-8,
         "miss_distance": {
           "r": 325.3699352403187,
@@ -12481,8 +12481,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -12494,7 +12494,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.06393537550019346,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -12511,7 +12511,7 @@
       "sum_total_delta_v": 0.06931818181818182,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 1.1124286682678166e-7,
         "miss_distance": {
           "r": 303.16875886588656,
@@ -12633,8 +12633,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -12646,7 +12646,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.07525407945121287,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -12663,7 +12663,7 @@
       "sum_total_delta_v": 0.08159090909090909,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 2.157730791632472e-8,
         "miss_distance": {
           "r": 347.5706314590003,
@@ -12785,8 +12785,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -12798,7 +12798,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.07714050080875268,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -12815,7 +12815,7 @@
       "sum_total_delta_v": 0.08363636363636363,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 1.605888044101368e-8,
         "miss_distance": {
           "r": 354.97075683303143,
@@ -12937,8 +12937,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -12950,7 +12950,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.07902691379467797,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -12967,7 +12967,7 @@
       "sum_total_delta_v": 0.08568181818181818,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 1.1876795258816496e-8,
         "miss_distance": {
           "r": 362.37082885806996,
@@ -13089,8 +13089,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -13102,7 +13102,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.07336764972200172,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -13119,7 +13119,7 @@
       "sum_total_delta_v": 0.07954545454545454,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 2.881012871704449e-8,
         "miss_distance": {
           "r": 340.17045273812613,
@@ -13241,8 +13241,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -13254,7 +13254,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.07148121162117604,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -13271,7 +13271,7 @@
       "sum_total_delta_v": 0.0775,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 3.822601527695458e-8,
         "miss_distance": {
           "r": 332.7702206619979,
@@ -13393,8 +13393,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -13406,7 +13406,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.08279971465174185,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -13423,7 +13423,7 @@
       "sum_total_delta_v": 0.08977272727272727,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 6.3747843170076745e-9,
         "miss_distance": {
           "r": 377.17081285305545,
@@ -13545,8 +13545,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -13558,7 +13558,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.08845885315133728,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -13575,7 +13575,7 @@
       "sum_total_delta_v": 0.09590909090909092,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 2.3911740385671486e-9,
         "miss_distance": {
           "r": 399.37038872571566,
@@ -13697,8 +13697,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -13710,7 +13710,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.08468610252305098,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -13727,7 +13727,7 @@
       "sum_total_delta_v": 0.09181818181818181,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 4.626449486334545e-9,
         "miss_distance": {
           "r": 384.570724826148,
@@ -13849,8 +13849,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -13862,7 +13862,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.08091331840898874,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -13879,7 +13879,7 @@
       "sum_total_delta_v": 0.08772727272727272,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 8.7286952035069e-9,
         "miss_distance": {
           "r": 369.7708475312166,
@@ -14001,8 +14001,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -14014,7 +14014,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.08657248202291612,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -14031,7 +14031,7 @@
       "sum_total_delta_v": 0.09386363636363637,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 3.3365402646989302e-9,
         "miss_distance": {
           "r": 391.9705834595723,
@@ -14153,8 +14153,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -14166,7 +14166,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.09034521590831446,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -14183,7 +14183,7 @@
       "sum_total_delta_v": 0.09795454545454546,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 1.7029124816158425e-9,
         "miss_distance": {
           "r": 406.77014063522415,
@@ -14305,8 +14305,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:20:49.508535+00:00",
-      "epoch": "2024-09-15T03:20:49.508535+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:20:49.508535+00:00",
+      "epoch": "2024-09-22T03:20:49.508535+00:00",
       "state_vector": {
         "x": -1742765.5426076301,
         "y": -1791747.3913641255,
@@ -14318,7 +14318,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:20:49.508535+00:00",
+          "ignition_epoch": "2024-09-22T03:20:49.508535+00:00",
           "fuel_consumption": 0.09223157029401818,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -14335,7 +14335,7 @@
       "sum_total_delta_v": 0.1,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVGFRZA36M183FB5J6B92EBK",
-        "tca": "2024-09-15T03:55:05.903999+00:00",
+        "tca": "2024-09-22T03:55:05.903999+00:00",
         "poc": 1.205146516005614e-9,
         "miss_distance": {
           "r": 414.1698392084825,
@@ -14457,8 +14457,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:07:49.506084+00:00",
-      "epoch": "2024-09-15T03:07:49.506084+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:07:49.506084+00:00",
+      "epoch": "2024-09-22T03:07:49.506084+00:00",
       "state_vector": {
         "x": -1743527.5747290247,
         "y": -1792372.2207374277,
@@ -14470,7 +14470,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:07:49.506084+00:00",
+          "ignition_epoch": "2024-09-22T03:07:49.506084+00:00",
           "fuel_consumption": 0.05827591050490355,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -14487,7 +14487,7 @@
       "sum_total_delta_v": 0.06318181818181819,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVHB85K2CQ2RG7V0NS8AXVD3",
-        "tca": "2024-09-15T03:55:05.902+00:00",
+        "tca": "2024-09-22T03:55:05.902+00:00",
         "poc": 8.574250302287264e-7,
         "miss_distance": {
           "r": 286.9132853934749,
@@ -14609,8 +14609,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:07:49.506084+00:00",
-      "epoch": "2024-09-15T03:07:49.506084+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:07:49.506084+00:00",
+      "epoch": "2024-09-22T03:07:49.506084+00:00",
       "state_vector": {
         "x": -1743527.5747290247,
         "y": -1792372.2207374277,
@@ -14622,7 +14622,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:07:49.506084+00:00",
+          "ignition_epoch": "2024-09-22T03:07:49.506084+00:00",
           "fuel_consumption": 0.060162407208622426,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -14639,7 +14639,7 @@
       "sum_total_delta_v": 0.06522727272727273,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVHB85K2CQ2RG7V0NS8AXVD3",
-        "tca": "2024-09-15T03:55:05.902+00:00",
+        "tca": "2024-09-22T03:55:05.902+00:00",
         "poc": 7.260668401088349e-7,
         "miss_distance": {
           "r": 294.31729782848214,
@@ -14761,8 +14761,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:07:49.506084+00:00",
-      "epoch": "2024-09-15T03:07:49.506084+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:07:49.506084+00:00",
+      "epoch": "2024-09-22T03:07:49.506084+00:00",
       "state_vector": {
         "x": -1743527.5747290247,
         "y": -1792372.2207374277,
@@ -14774,7 +14774,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:07:49.506084+00:00",
+          "ignition_epoch": "2024-09-22T03:07:49.506084+00:00",
           "fuel_consumption": 0.06393537550019346,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -14791,7 +14791,7 @@
       "sum_total_delta_v": 0.06931818181818182,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVHB85K2CQ2RG7V0NS8AXVD3",
-        "tca": "2024-09-15T03:55:05.902+00:00",
+        "tca": "2024-09-22T03:55:05.902+00:00",
         "poc": 5.140436168881788e-7,
         "miss_distance": {
           "r": 309.12548265319947,
@@ -14913,8 +14913,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:07:49.506084+00:00",
-      "epoch": "2024-09-15T03:07:49.506084+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:07:49.506084+00:00",
+      "epoch": "2024-09-22T03:07:49.506084+00:00",
       "state_vector": {
         "x": -1743527.5747290247,
         "y": -1792372.2207374277,
@@ -14926,7 +14926,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:07:49.506084+00:00",
+          "ignition_epoch": "2024-09-22T03:07:49.506084+00:00",
           "fuel_consumption": 0.062048895540328886,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -14943,7 +14943,7 @@
       "sum_total_delta_v": 0.06727272727272728,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVHB85K2CQ2RG7V0NS8AXVD3",
-        "tca": "2024-09-15T03:55:05.902+00:00",
+        "tca": "2024-09-22T03:55:05.902+00:00",
         "poc": 6.122252231771679e-7,
         "miss_distance": {
           "r": 301.7213635749275,
@@ -15065,8 +15065,8 @@
       "origin": "neuraspace",
       "status": "suggested",
       "reference_frame": "EME2000",
-      "ignition_epoch_earliest": "2024-09-15T03:07:49.506084+00:00",
-      "epoch": "2024-09-15T03:07:49.506084+00:00",
+      "ignition_epoch_earliest": "2024-09-22T03:07:49.506084+00:00",
+      "epoch": "2024-09-22T03:07:49.506084+00:00",
       "state_vector": {
         "x": -1743527.5747290247,
         "y": -1792372.2207374277,
@@ -15078,7 +15078,7 @@
       "thrust_parameters": [],
       "impulsive_parameters": [
         {
-          "ignition_epoch": "2024-09-15T03:07:49.506084+00:00",
+          "ignition_epoch": "2024-09-22T03:07:49.506084+00:00",
           "fuel_consumption": 0.0658218470881593,
           "local_frame": "RTN",
           "delta_v_vector": {
@@ -15095,7 +15095,7 @@
       "sum_total_delta_v": 0.07136363636363637,
       "collision_avoidance": {
         "conjunction_detail_id": "01HVHB85K2CQ2RG7V0NS8AXVD3",
-        "tca": "2024-09-15T03:55:05.902+00:00",
+        "tca": "2024-09-22T03:55:05.902+00:00",
         "poc": 4.2977666072133933e-7,
         "miss_distance": {
           "r": 316.5296550663675,
