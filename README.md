@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# SAMMA app - Master's Thesis in Design and Multimedia
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My master's thesis focuses on the development of an analytical application for the visualization of satellite data, addressing challenges in interpreting and managing the growing complexity of space activities.
 
-## Available Scripts
+The field of information visualization plays a pivotal role in transforming large and abstract datasets into intuitive and comprehensible visual representations, an increasingly critical need in the digital age. This is particularly relevant in the space sector, where the exponential growth of satellites in orbit—driven by the demand for space-based services—has resulted in a significant increase in space debris, posing threats to the sustainability and safety of space operations.
 
-In the project directory, you can run:
+Given these challenges, my research explores innovative approaches to visualizing and interacting with satellite-related data, focusing on enabling effective monitoring and analysis of the complex dynamics between active satellites and debris. The project involved:
 
-### `npm start`
+- Prototyping various visualization models, tailored to the multidimensional and dynamic nature of satellite data.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Developing and integrating these prototypes into a fully functional analytical application.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Conducting a usability and user experience evaluation in a real-world context to refine the application and ensure it meets user needs.
 
-### `npm test`
+This thesis highlights how data visualization can serve as a critical tool for navigating the complexities of satellite operations, contributing to safer and more sustainable space activities.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Context
 
-### `npm run build`
+This project was developed in the context of my Thesis of the master’s degree in [Design and Multimedia](https://dm.dei.uc.pt/en/about/) of the [Faculty of Sciences and Technology of the University of Coimbra](https://www.uc.pt/fctuc/), entitled "Interactive Visualization for Monitoring and Analysis of Satellite Maneuvers in Space", evaluated with the highest grade of 20/20.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Technologies used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The main languages used in the development of this project were JavaScript, React, Node.js, D3.js, Material UI and Figma.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### License
 
-### `npm run eject`
+This project is licensed under the `MIT License` - see the [LICENSE](LICENSE) file for details.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Contributors
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Carlos Alves](https://github.com/carlosjalves) - design and development
+- [Evgheni Polisciuc](https://cdv.dei.uc.pt/people/evgheni-polisciuc) - supervision
+- [Catarina Maçãs](https://cdv.dei.uc.pt/people/catarina-macas) - supervision
